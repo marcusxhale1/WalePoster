@@ -1,0 +1,17 @@
+html{
+    background-color: black;
+}
+
+div {
+    text-align: center;
+    margin-top: 100px;
+    
+}
+
+h1, p{
+    color: white;
+}
+
+img{
+    border: 10px solid white;
+}
