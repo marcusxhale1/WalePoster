@@ -1,0 +1,1 @@
+Created a Wale poster with the new album (it's my favorite album that I've heard in a long time). This is the first piece of work that I'm proud of. I know it's not the most beautiful. It's not the an interactive website. But I will get there in a week. I will have a fully designed webpage by Saturday evening 2/7/2026. 
